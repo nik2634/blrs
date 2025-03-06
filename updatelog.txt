@@ -1,6 +1,7 @@
 ======= UPDATE V1.0c =======
-- Added Auto Daily Login
+- Added Create Account NoRandom
+- Added Login To Random
 - Improved Auto Random Character
+- Improved AutoUpdate
 - Fixed sum bug
-- Removed Herobine
 ============================
