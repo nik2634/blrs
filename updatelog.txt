@@ -1,7 +1,6 @@
-======= UPDATE V1.0c =======
-- Added Create Account NoRandom
+======= UPDATE V1.1 =======
+- Added DailyLogin
 - Added Login To Random
-- Improved Auto Random Character
-- Improved AutoUpdate
-- Fixed sum bug
+- Improved Auto NoRandom Character
+- Fixed Stuck In PlayScreen
 ============================
