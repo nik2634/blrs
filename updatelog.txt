@@ -1,6 +1,5 @@
-======= UPDATE V1.1 =======
-- Added DailyLogin
-- Added Login To Random
-- Improved Auto NoRandom Character
-- Fixed Stuck In PlayScreen
+======= UPDATE V1.4 =======
+- Added Login Check ID
+- Added Create Account Check by text
+- Fixed some Bug
 ============================
