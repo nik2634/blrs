@@ -1,3 +1,4 @@
-======= UPDATE V1.4 #HOTFIX 1 =======
+======= UPDATE V1.4 =======
+#HOTFIX 1
 - Fixed webhook error
 ============================
