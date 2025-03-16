@@ -1,5 +1,4 @@
-======= UPDATE V1.4 =======
-- Added Login Check ID
-- Added Create Account Check by text
-- Fixed some Bug
+======= UPDATE V1.4 #HOTFIX 1 =======
+- Fixed webhook error u need to redownload
+if u want to disable webhook
 ============================
