@@ -1,6 +1,7 @@
-======= UPDATE V1.0 =======
+======= UPDATE V1.0 #HOTFIX 1 =======
 - Added Login Check ID
 - Added Create Account
+- FIX WEBHOOK ERROR
 ============================
 This is free!!
 If you buy this, you're getting scammed.
