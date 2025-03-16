@@ -1,4 +1,5 @@
-======= UPDATE V1.0 #HOTFIX 1 =======
+======= UPDATE V1.0 =======
+#HOTFIX 1
 - Added Login Check ID
 - Added Create Account
 - FIX WEBHOOK ERROR
