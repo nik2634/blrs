@@ -1,4 +1,4 @@
-======= UPDATE V1.4 =======
-#HOTFIX 1
-- Fixed webhook error
+======= UPDATE V1.5 =======
+- Added simple login
+- Fix Exp*2
 ============================
